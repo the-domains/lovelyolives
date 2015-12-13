@@ -1,0 +1,28 @@
+name: LovelyOlives
+favicon: null
+layout_spectrum: 0.18080422305501997
+typography_spectrum: 0.9314793800003827
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8524880628101528
+  lightness: 0.59070092625916
+  saturation: 0.06667085038498044
+  rhythmicContrast: 0.3461153192911297
+purpose: []
