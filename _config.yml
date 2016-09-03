@@ -1,19 +1,4 @@
-name: LovelyOlives
-favicon: null
-layout_spectrum: 0.18080422305501997
 typography_spectrum: 0.9314793800003827
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#17BEBB'
@@ -25,4 +10,22 @@ color:
   lightness: 0.59070092625916
   saturation: 0.06667085038498044
   rhythmicContrast: 0.3461153192911297
+opengraph:
+  image: null
+  type: null
+  appId: LovelyOlivesClub
+layout_spectrum: 0.18080422305501997
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a5aa6b7-6d51-4973-b305-c567b055b39d.jpg
+name: LovelyOlives
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c063c3a-8885-4bee-8c3d-602a27788d07.png
 purpose: []
